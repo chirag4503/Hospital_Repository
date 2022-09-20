@@ -1,0 +1,9 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body
+{
+    background-color: #16e64a70;
+    background:url(chsimg.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
